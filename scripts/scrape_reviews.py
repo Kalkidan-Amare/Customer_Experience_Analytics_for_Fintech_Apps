@@ -6,10 +6,10 @@ from typing import List, Dict
 from google_play_scraper import Sort, reviews
 
 BANK_APPS = {
-    # Package names must be valid Play Store app IDs. These are placeholders; update if needed.
-    "Commercial Bank of Ethiopia": "com.cbe.cbe_birr",  # Example; replace with official CBE app id
-    "Bank of Abyssinia": "com.boa.mobilebanking",      # Example; replace with official BOA app id
-    "Dashen Bank": "com.dashenbank.mobile"             # Example; replace with official Dashen app id
+    
+    "Commercial Bank of Ethiopia": "com.combanketh.mobilebanking",  
+    "Bank of Abyssinia": "com.infonow.bofa",     
+    "Dashen Bank": "com.dashen.dashensuperapp"     
 }
 
 

@@ -3,5 +3,6 @@ google-play-scraper==1.2.5
 python-dateutil==2.9.0.post0
 nltk==3.9.1
 vaderSentiment==3.3.2
-matplotlib==3.9.0
+
+matplotlib==3.8.2
 seaborn==0.13.2
