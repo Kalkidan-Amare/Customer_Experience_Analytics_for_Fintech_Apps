@@ -9,7 +9,7 @@ venv/
 # Data
 /data/raw/*.json
 /data/raw/*.csv
-/data/processed/*.csv
+# /data/processed/*.csv
 
 # Notebooks
 *.ipynb_checkpoints/
@@ -18,3 +18,5 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+ 
+
