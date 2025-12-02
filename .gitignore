@@ -19,4 +19,10 @@ venv/
 Thumbs.db
 .vscode/
  
+# Local-only reports (do not track)
+reports/
+
+# pyenv local version file
+.python-version
+
 
