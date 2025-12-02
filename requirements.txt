@@ -6,3 +6,10 @@ vaderSentiment==3.3.2
 
 matplotlib==3.8.2
 seaborn==0.13.2
+scikit-learn==1.5.2
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+wordcloud==1.9.4
+pytest==8.3.3
+ruff==0.6.9
+emoji==2.12.1
